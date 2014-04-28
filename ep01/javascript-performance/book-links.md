@@ -1,0 +1,4 @@
+#[High Performance Javascript - Nicholas C. Zakas - O'Reilly](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces-ebook/dp/B0043D2F62/ref=sr_1_1?ie=UTF8&qid=1398715724&sr=8-1&keywords=high+performance+javascript)
+#[Data Structures and Algorithms with Javascript - Michael McMillan - O'Reilly](http://www.amazon.com/Structures-Algorithms-JavaScript-Michael-McMillan-ebook/dp/B00IV3J23Y/ref=sr_1_1?ie=UTF8&qid=1398715825&sr=8-1&keywords=data+structures+and+algorithms+with+javascript)
+#[Javascript Patterns - Stoyan Stefanov - O'Reilly]()
+#[Javascript: The Good Parts - Douglas Crockford - O'Reilly](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?s=books&ie=UTF8&qid=1398715934&sr=1-1&keywords=the+good+parts+javascript)
