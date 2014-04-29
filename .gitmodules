@@ -1,0 +1,3 @@
+[submodule "ep01/oocss"]
+	path = ep01/oocss
+	url = git@github.com:necrosmx/oocss-talk.git
